@@ -1,7 +1,15 @@
+/*
+ * @Author: mjk
+ * @Date: 2021-01-04 14:41:57
+ * @LastEditTime: 2021-01-04 15:08:50
+ * @LastEditors: Please set LastEditors
+ * @Description: react 后台
+ * @FilePath: \reactAdmin\react-admin\src\index.js
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App.jsx';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
